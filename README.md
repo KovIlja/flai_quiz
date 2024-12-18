@@ -13,12 +13,12 @@ Api used:
 ## Screenshots
 
 <br>
-<img src="screenshots/Screenshot_1.png">
-<img src="screenshots/Screenshot_2.png">
-<img src="screenshots/Screenshot_3.png">
-<img src="screenshots/Screenshot_4.png">
-<img src="screenshots/Screenshot_5.png">
-<img src="screenshots/Screenshot_6.png">
-<img src="screenshots/Screenshot_7.png">
-<img src="screenshots/Screenshot_8.png">
-<img src="screenshots/Screenshot_9.png">
+<img src="screenshots/Screenshot_1.png" width="30%">
+<img src="screenshots/Screenshot_2.png" width="30%">
+<img src="screenshots/Screenshot_3.png" width="30%">
+<img src="screenshots/Screenshot_4.png" width="30%">
+<img src="screenshots/Screenshot_5.png" width="30%">
+<img src="screenshots/Screenshot_6.png" width="30%">
+<img src="screenshots/Screenshot_7.png" width="30%">
+<img src="screenshots/Screenshot_8.png" width="30%">
+<img src="screenshots/Screenshot_9.png" width="30%">
